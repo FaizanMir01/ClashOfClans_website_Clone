@@ -6,7 +6,7 @@
 /*continer1*/
 .container1{
     height: 720px;
-    background-image: url(/clash/hero_bg_clashofclans_.74bcfed8.webp);
+    background-image: url(./clash/hero_bg_clashofclans_.74bcfed8.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,7 +103,7 @@
 .timeline{
     margin-left: 15%;
     height: 10px;
-    background-image: url(/clash/bg_release_timeline.dbc0af22.png);
+    background-image: url(./clash/bg_release_timeline.dbc0af22.png);
     padding: .5rem 0rem;
 }
 .heading2,.para{
@@ -137,7 +137,7 @@
 }
 /*continer4*/
 .container4{
-    background-image: url(/clash/wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-image: url(./clash/wallpaperflare.com_wallpaper\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
